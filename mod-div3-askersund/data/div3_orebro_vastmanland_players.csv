@@ -1,0 +1,344 @@
+team_id,team_code,team_name,player_id,person_id,first_name,last_name,full_name,position,jersey_no,overall,potential,portrait_file,stats_position,matches,goals,assists,points,penalty_minutes,source_image_url,notes
+117042,ASK,Askersunds IBK H3,297920,415920,Alexander,Wilhelmsson,Alexander Wilhelmsson,F,9,64,70,ASK_AlexanderWilhelmsson.png,,16,5,6,11,4,,portrait from template-mod-ssl/AIK_AdamForslov.png
+117042,ASK,Askersunds IBK H3,24484,481494,Alfred,Swärd,Alfred Swärd,F,14,59,65,ASK_AlfredSward.png,,6,0,0,0,2,https://ibis.innebandy.se/images/Spelare/49484cfa10b250f569a5a1774fa8b312.jpg,portrait from template-mod-ssl/AIK_AlexAndersson.png
+117042,ASK,Askersunds IBK H3,170998,188452,Andreas,Johansson,Andreas Johansson,F,93,64,70,ASK_AndreasJohansson.png,,19,5,5,10,4,https://ibis.innebandy.se/images/Spelare/78158552a6608140842a510509cf6e49.jpg,portrait from template-mod-ssl/AIK_AlexIndrianaKjellbris.png
+117042,ASK,Askersunds IBK H3,394246,295006,Anton,Hallan,Anton Hallan,G,78,61,67,ASK_AntonHallan.png,Målvakt,21,0,2,2,2,https://ibis.innebandy.se/images/Spelare/d65ce43dcd93494327c0635544c74776.jpg,portrait from template-mod-ssl/AIK_AlexanderMahlberg.png
+117042,ASK,Askersunds IBK H3,213436,50416,Björn,Karlsson,Björn Karlsson,F,6,58,64,ASK_BjornKarlsson.png,,1,0,0,0,0,https://ibis.innebandy.se/images/Spelare/2319362d161120a1f25087a2473b3c61.jpg,portrait from template-mod-ssl/AIK_AndreasBeckius.png
+117042,ASK,Askersunds IBK H3,82550,392783,Emil,Backeborn,Emil Backeborn,F,98,81,87,ASK_EmilBackeborn.png,,22,34,22,56,2,https://ibis.innebandy.se/images/Spelare/65ea1093b6f3193e1c1b9d42ecd7ae4b.jpg,portrait from template-mod-ssl/AIK_AndreasStefansson.png
+117042,ASK,Askersunds IBK H3,378674,390686,Erik,Gustafsson,Erik Gustafsson,F,11,81,87,ASK_ErikGustafsson.png,,22,16,41,57,14,,portrait from template-mod-ssl/AIK_DouglasWetterstrand.png
+117042,ASK,Askersunds IBK H3,526438,567427,Erik,Söderman,Erik Söderman,F,,59,65,ASK_ErikSoderman.png,,6,0,1,1,0,,portrait from template-mod-ssl/AIK_GabrielBarragan.png
+117042,ASK,Askersunds IBK H3,27369,417626,Felix,Särén,Felix Särén,F,87,88,94,ASK_FelixSaren.png,,22,53,20,73,20,https://ibis.innebandy.se/images/Spelare/07c0dec6e97ec77c01aa90902a3fc6b5.jpg,portrait from template-mod-ssl/AIK_IsaacLindberg.png
+117042,ASK,Askersunds IBK H3,31050,386788,Gabriel,Ahlm,Gabriel Ahlm,F,42,68,74,ASK_GabrielAhlm.png,,19,14,8,22,4,https://ibis.innebandy.se/images/Spelare/687e0d2bafc7e6ec43af9c3f65b45508.jpg,portrait from template-mod-ssl/AIK_JesperAndersson.png
+117042,ASK,Askersunds IBK H3,541039,584115,Hugo,Fagermo,Hugo Fagermo,G,71,58,64,ASK_HugoFagermo.png,Målvakt,3,0,0,0,0,https://ibis.innebandy.se/images/Spelare/0aa7ac5af3d8f0bd089fdaaf96b94ec4.jpg,portrait from template-mod-ssl/AIK_JonasRosen.png
+117042,ASK,Askersunds IBK H3,541032,584108,Hugo,Palmroth,Hugo Palmroth,F,,58,64,ASK_HugoPalmroth.png,,0,0,0,0,0,https://ibis.innebandy.se/images/Spelare/017e4f93c2c4795722a46d071f254319.jpg,portrait from template-mod-ssl/AIK_JonathanBlomqvist.png
+117042,ASK,Askersunds IBK H3,46851,438097,Isac,Åhman,Isac Åhman,F,88,58,64,ASK_IsacAhman.png,,0,0,0,0,0,https://ibis.innebandy.se/images/Spelare/64b707eebcb0eb4f7907a3bcbf1df6e6.jpg,portrait from template-mod-ssl/AIK_JonathanBolin.png
+117042,ASK,Askersunds IBK H3,76774,434692,Jesper,Sonder,Jesper Sonder,F,19,59,65,ASK_JesperSonder.png,,4,1,1,2,2,,portrait from template-mod-ssl/AIK_JonathanHjelm.png
+117042,ASK,Askersunds IBK H3,42895,124354,Linus,Tamminen,Linus Tamminen,F,91,62,68,ASK_LinusTamminen.png,,15,2,4,6,4,https://ibis.innebandy.se/images/Spelare/3f49a3095c3ce881fcf1910d6addc1aa.jpg,portrait from template-mod-ssl/AIK_KevinLiebackAsp.png
+117042,ASK,Askersunds IBK H3,250264,386791,Ludvig,Nilsson,Ludvig Nilsson,F,73,70,76,ASK_LudvigNilsson.png,,21,8,20,28,12,https://ibis.innebandy.se/images/Spelare/f7f5933333bdb940453e20ded541a6ad.jpg,portrait from template-mod-ssl/AIK_KimGuilotte.png
+117042,ASK,Askersunds IBK H3,660746,723265,Manfred,Eriksson,Manfred Eriksson,F,89,61,67,ASK_ManfredEriksson.png,,14,2,2,4,8,https://ibis.innebandy.se/images/Spelare/3db33c2e7aace7ee5c6d0b61effdb7b3.jpg,portrait from template-mod-ssl/AIK_LiamAstrom.png
+117042,ASK,Askersunds IBK H3,270363,41415,Marcus,Hammarlund,Marcus Hammarlund,F,,58,64,ASK_MarcusHammarlund.png,,0,0,0,0,0,,portrait from template-mod-ssl/AIK_LinusHellqvist.png
+117042,ASK,Askersunds IBK H3,286086,382319,Marcus,Åhman,Marcus Åhman,F,25,58,64,ASK_MarcusAhman.png,,0,0,0,0,0,https://ibis.innebandy.se/images/Spelare/a6dc3f5e3a9b8dc45d1b9622f2c31897.jpg,portrait from template-mod-ssl/AIK_MarkusEriksson.png
+117042,ASK,Askersunds IBK H3,541026,584102,Melker,Nilsson,Melker Nilsson,F,96,64,70,ASK_MelkerNilsson.png,,20,5,4,9,8,https://ibis.innebandy.se/images/Spelare/5c9f74587a2fe105e0f05eee7e94494c.jpg,portrait from template-mod-ssl/AIK_MartinWallberg.png
+117042,ASK,Askersunds IBK H3,658349,720350,Måns,Häyrinen Persson,Måns Häyrinen Persson,F,77,58,64,ASK_MansHayrinenPersson.png,,4,0,0,0,0,https://ibis.innebandy.se/images/Spelare/6fb174baf4243f3ac2ed6d4f1fc4c8d8.jpg,portrait from template-mod-ssl/AIK_MelvinAberg.png
+117042,ASK,Askersunds IBK H3,234515,415916,Olle,Ogenklev,Olle Ogenklev,F,66,64,70,ASK_OlleOgenklev.png,,16,3,9,12,2,,portrait from template-mod-ssl/AIK_OskarMilanovicHagberg.png
+117042,ASK,Askersunds IBK H3,338538,445805,Oscar,Capobianco,Oscar Capobianco,F,33,67,73,ASK_OscarCapobianco.png,,18,8,11,19,0,,portrait from template-mod-ssl/AIK_SimonMoller.png
+117042,ASK,Askersunds IBK H3,396554,213233,Pontus,Holmgren,Pontus Holmgren,G,81,58,64,ASK_PontusHolmgren.png,Målvakt,0,0,0,0,0,,portrait from template-mod-ssl/AIK_VictorSchedinHuisman.png
+117042,ASK,Askersunds IBK H3,371973,470986,Rasmus,Högqvist,Rasmus Högqvist,F,21,58,64,ASK_RasmusHogqvist.png,,2,0,0,0,0,https://ibis.innebandy.se/images/Spelare/a441f4bfd4e129af597bfb17311be232.jpg,portrait from template-mod-ssl/AIK_WilleJaderlund.png
+117042,ASK,Askersunds IBK H3,280506,243778,Robin,Lindgjerdet,Robin Lindgjerdet,F,39,65,71,ASK_RobinLindgjerdet.png,,17,9,5,14,0,,portrait from template-mod-ssl/FAL_AhmadDakhallah.png
+117042,ASK,Askersunds IBK H3,271392,336690,Samuel,Nissinen-Eriksson,Samuel Nissinen-Eriksson,F,,63,69,ASK_SamuelNissinenEriksson.png,,13,5,4,9,6,https://ibis.innebandy.se/images/Spelare/deeac96747c39af4fe51f99cc79ca8eb.jpg,portrait from template-mod-ssl/FAL_AugustSwardh.png
+117042,ASK,Askersunds IBK H3,10413,360740,Tim,Nissinen Eriksson,Tim Nissinen Eriksson,F,,62,68,ASK_TimNissinenEriksson.png,,11,4,3,7,6,https://ibis.innebandy.se/images/Spelare/ff12592a08c792faa97fd3d2dc40f1cd.jpg,portrait from template-mod-ssl/FAL_CalleInglander.png
+117042,ASK,Askersunds IBK H3,286723,90236,Tobias,Bäckström,Tobias Bäckström,F,3,99,99,ASK_TobiasBackstrom.png,,9,2,0,2,0,https://ibis.innebandy.se/images/Spelare/325bbe3c992bfd0f4a206ec2cb65af4d.jpg,priority player maxed per request
+117042,ASK,Askersunds IBK H3,657809,718810,Victor,Klingberg,Victor Klingberg,F,76,80,86,ASK_VictorKlingberg.png,,22,32,20,52,16,,portrait from template-mod-ssl/FAL_CarlBendinSorling.png
+117042,ASK,Askersunds IBK H3,89907,415912,Vincent,Albinsson,Vincent Albinsson,G,47,60,66,ASK_VincentAlbinsson.png,Målvakt,13,0,0,0,0,https://ibis.innebandy.se/images/Spelare/04a53ebabe54fb7afed8e609514d5ad0.jpg,portrait from template-mod-ssl/FAL_CasperBackby.png
+9128,GRO,Gropens IF,552657,596988,Adrian,Falk,Adrian Falk,F,37,62,68,GRO_AdrianFalk.png,Forward,17,4,1,5,2,,portrait from template-mod-ssl/FAL_DanielKalentun.png
+9128,GRO,Gropens IF,605844,658036,Adrian,Lindahl,Adrian Lindahl,F,85,61,67,GRO_AdrianLindahl.png,Forward,19,2,1,3,2,,portrait from template-mod-ssl/FAL_EmilHallqvistJohansson.png
+9128,GRO,Gropens IF,779816,778340,Albin,Falk,Albin Falk,G,1,58,64,GRO_AlbinFalk.png,Målvakt,4,0,0,0,0,,portrait from template-mod-ssl/FAL_EmilLundmark.png
+9128,GRO,Gropens IF,248324,147162,Alexander,Eriksson,Alexander Eriksson,D,64,63,69,GRO_AlexanderEriksson.png,Back,14,5,3,8,10,,portrait from template-mod-ssl/FAL_EmilRuud.png
+9128,GRO,Gropens IF,540252,583244,Alfred,Leonard,Alfred Leonard,G,1,59,65,GRO_AlfredLeonard.png,Målvakt,11,0,0,0,0,,portrait from template-mod-ssl/FAL_ErikAkerblom.png
+9128,GRO,Gropens IF,552661,596992,Arvid,Tetzlaff,Arvid Tetzlaff,D,98,61,67,GRO_ArvidTetzlaff.png,Back,19,0,1,1,0,,portrait from template-mod-ssl/FAL_FilipOijer.png
+9128,GRO,Gropens IF,552663,596994,Benjamin,Tulic,Benjamin Tulic,F,9,59,65,GRO_BenjaminTulic.png,Forward,2,0,1,1,0,,portrait from template-mod-ssl/FAL_JoelLundell.png
+9128,GRO,Gropens IF,234831,415098,Emil,Gustavsson,Emil Gustavsson,C,91,66,72,GRO_EmilGustavsson.png,Center,19,8,9,17,8,,portrait from template-mod-ssl/FAL_JonathanBerglund.png
+9128,GRO,Gropens IF,308510,495990,Hampus,Nyströmer,Hampus Nyströmer,C,17,58,64,GRO_HampusNystromer.png,Center,0,0,0,0,0,,portrait from template-mod-ssl/FAL_LukasRosenklint.png
+9128,GRO,Gropens IF,57390,92949,Hampus,Svenaeus,Hampus Svenaeus,F,70,64,70,GRO_HampusSvenaeus.png,,9,6,8,14,2,,portrait from template-mod-ssl/FAL_MalteLundmark.png
+9128,GRO,Gropens IF,605848,658042,Isak,Sterner,Isak Sterner,D,77,63,69,GRO_IsakSterner.png,Back,19,3,4,7,4,,portrait from template-mod-ssl/FAL_NoelSeiler.png
+9128,GRO,Gropens IF,23959,497125,Jesper,Hellden,Jesper Hellden,F,6,59,65,GRO_JesperHellden.png,,4,1,1,2,0,,portrait from template-mod-ssl/FAL_OliverSandberg.png
+9128,GRO,Gropens IF,102172,235083,John,Fransson,John Fransson,D,5,66,72,GRO_JohnFransson.png,Back,17,4,14,18,4,,portrait from template-mod-ssl/FAL_PatrikBurman.png
+9128,GRO,Gropens IF,624117,679783,Leo,Göransson,Leo Göransson,F,86,58,64,GRO_LeoGoransson.png,,2,0,0,0,0,,portrait from template-mod-ssl/FAL_SimonBerg.png
+9128,GRO,Gropens IF,129909,326159,Linus,Rehnström,Linus Rehnström,C,18,64,70,GRO_LinusRehnstrom.png,Center,15,5,7,12,2,,portrait from template-mod-ssl/FAL_SimonCederstrom.png
+9128,GRO,Gropens IF,89788,178876,Lucas,Viktorsson,Lucas Viktorsson,F,10,63,69,GRO_LucasViktorsson.png,,17,4,3,7,2,,portrait from template-mod-ssl/FAL_SimonWedberg.png
+9128,GRO,Gropens IF,552668,596999,Maximus,Andersson,Maximus Andersson,G,30,60,66,GRO_MaximusAndersson.png,Målvakt,20,0,0,0,0,,portrait from template-mod-ssl/FAL_VictorFrejd.png
+9128,GRO,Gropens IF,175282,495988,Melvin,Öhrn,Melvin Öhrn,F,24,70,76,GRO_MelvinOhrn.png,Forward,18,13,13,26,2,,portrait from template-mod-ssl/FAL_VictorFrisch.png
+9128,GRO,Gropens IF,552671,597003,Noel,Thunell,Noel Thunell,F,21,75,81,GRO_NoelThunell.png,Forward,20,27,12,39,0,,portrait from template-mod-ssl/HOV_AdamBack.png
+9128,GRO,Gropens IF,555616,600250,Oliver,Persson,Oliver Persson,F,80,62,68,GRO_OliverPersson.png,,11,8,0,8,6,,portrait from template-mod-ssl/HOV_AlbinRommeskog.png
+9128,GRO,Gropens IF,605847,658041,Olle,Elofsson,Olle Elofsson,F,95,61,67,GRO_OlleElofsson.png,,17,1,1,2,4,,portrait from template-mod-ssl/HOV_DavidAndersson.png
+9128,GRO,Gropens IF,624128,679794,Oscar,Karlsson,Oscar Karlsson,F,2,58,64,GRO_OscarKarlsson.png,,0,0,0,0,0,,portrait from template-mod-ssl/HOV_FelixNilsson.png
+9128,GRO,Gropens IF,320946,444098,Rasmus,Hemstad,Rasmus Hemstad,F,8,62,68,GRO_RasmusHemstad.png,,12,4,4,8,2,,portrait from template-mod-ssl/HOV_FilipLarsson.png
+9128,GRO,Gropens IF,552517,596839,Thomas,Axelsson,Thomas Axelsson,F,7,82,88,GRO_ThomasAxelsson.png,Forward,18,35,26,61,4,,portrait from template-mod-ssl/HOV_GustavRinghagen.png
+9128,GRO,Gropens IF,515503,554471,William,Berisson,William Berisson,D,27,68,74,GRO_WilliamBerisson.png,Back,18,8,13,21,2,,portrait from template-mod-ssl/HOV_HugoOlsson.png
+8321,IBF,IBF Örebro Ung H3,534901,577047,Albin,Axling,Albin Axling,D,29,64,70,IBF_AlbinAxling.png,Back,14,5,7,12,0,,portrait from template-mod-ssl/HOV_JoelEkstrom.png
+8321,IBF,IBF Örebro Ung H3,544719,588382,Alexander,Fagerberg,Alexander Fagerberg,G,92,60,66,IBF_AlexanderFagerberg.png,Målvakt,15,0,1,1,2,,portrait from template-mod-ssl/HOV_LeoOlsson.png
+8321,IBF,IBF Örebro Ung H3,539059,581947,August,Björck,August Björck,D,6,61,67,IBF_AugustBjorck.png,Back,8,2,4,6,4,,portrait from template-mod-ssl/HOV_LucasLindberg.png
+8321,IBF,IBF Örebro Ung H3,543822,587399,Axel,Pegers,Axel Pegers,C,27,62,68,IBF_AxelPegers.png,Center,14,1,5,6,4,,portrait from template-mod-ssl/HOV_MarcusBurman.png
+8321,IBF,IBF Örebro Ung H3,564801,610487,Calle,Westerlund,Calle Westerlund,C,3,72,78,IBF_CalleWesterlund.png,Center,24,13,19,32,0,,portrait from template-mod-ssl/HOV_MarcusHamrin.png
+8321,IBF,IBF Örebro Ung H3,481314,513574,Dexter,Mattsson,Dexter Mattsson,F,15,64,70,IBF_DexterMattsson.png,Forward,16,6,6,12,8,,portrait from template-mod-ssl/HOV_MaxJohansson.png
+8321,IBF,IBF Örebro Ung H3,565913,611755,Enzo,Kraft,Enzo Kraft,F,26,65,71,IBF_EnzoKraft.png,Forward,6,7,12,19,0,,portrait from template-mod-ssl/HOV_MelvinSjokvist.png
+8321,IBF,IBF Örebro Ung H3,577939,625221,Erik,Furustam,Erik Furustam,F,,58,64,IBF_ErikFurustam.png,Forward,0,0,0,0,0,,portrait from template-mod-ssl/HOV_MelwinKnuthas.png
+8321,IBF,IBF Örebro Ung H3,518316,491721,Felix,Eneflod,Felix Eneflod,F,16,63,69,IBF_FelixEneflod.png,Forward,20,6,2,8,0,,portrait from template-mod-ssl/HOV_NoahAlex.png
+8321,IBF,IBF Örebro Ung H3,238589,365797,Filip,Ekström,Filip Ekström,F,17,58,64,IBF_FilipEkstrom.png,,4,0,0,0,0,,portrait from template-mod-ssl/HOV_NoelGustafsson.png
+8321,IBF,IBF Örebro Ung H3,572666,619409,Filip,Jansson,Filip Jansson,D,5,62,68,IBF_FilipJansson.png,Back,16,3,4,7,0,,portrait from template-mod-ssl/HOV_PhilipAxelsson.png
+8321,IBF,IBF Örebro Ung H3,490560,524029,Gustav,Ekström,Gustav Ekström,F,99,71,77,IBF_GustavEkstrom.png,Forward,21,18,10,28,6,,portrait from template-mod-ssl/HOV_SimonEriksson.png
+8321,IBF,IBF Örebro Ung H3,527156,568192,Herman,Lotoft,Herman Lotoft,F,,59,65,IBF_HermanLotoft.png,Forward,1,2,0,2,0,,portrait from template-mod-ssl/HOV_TeddyHultberg.png
+8321,IBF,IBF Örebro Ung H3,589763,639748,Hugo,Eriksson,Hugo Eriksson,D,74,62,68,IBF_HugoEriksson.png,Back,13,1,5,6,6,,portrait from template-mod-ssl/HOV_TheoBjerhag.png
+8321,IBF,IBF Örebro Ung H3,544722,588385,Isak,Hallemark,Isak Hallemark,F,13,59,65,IBF_IsakHallemark.png,Forward,9,0,0,0,2,,portrait from template-mod-ssl/HOV_VilgotKronstrand.png
+8321,IBF,IBF Örebro Ung H3,409057,422559,Jakop,Alrikson,Jakop Alrikson,G,1,59,65,IBF_JakopAlrikson.png,Målvakt,10,0,0,0,2,https://ibis.innebandy.se/images/Spelare/e98b007281226e4fbcc05679e98b2c3e.jpg,portrait from template-mod-ssl/HOV_WilleKnuthas.png
+8321,IBF,IBF Örebro Ung H3,543828,587405,Joel,Ahlsson,Joel Ahlsson,F,21,66,72,IBF_JoelAhlsson.png,Forward,18,9,8,17,0,,portrait from template-mod-ssl/HOV_WillemLinden.png
+8321,IBF,IBF Örebro Ung H3,544716,588379,Josef,Blom,Josef Blom,C,9,62,68,IBF_JosefBlom.png,Center,4,6,5,11,0,,portrait from template-mod-ssl/JIK_AlbinJakobsson.png
+8321,IBF,IBF Örebro Ung H3,380905,450452,Leo,Åsberg,Leo Åsberg,G,51,60,66,IBF_LeoAsberg.png,Målvakt,15,0,0,0,0,,portrait from template-mod-ssl/JIK_AlessioMura.png
+8321,IBF,IBF Örebro Ung H3,306178,495985,Liam,Andersson,Liam Andersson,F,2,70,76,IBF_LiamAndersson.png,Forward,12,21,9,30,0,https://ibis.innebandy.se/images/Spelare/d42116afaace3f503e6ee747fc00802b.jpg,portrait from template-mod-ssl/JIK_AntonSvanberg.png
+8321,IBF,IBF Örebro Ung H3,546636,590503,Love,Christiansen,Love Christiansen,F,96,71,77,IBF_LoveChristiansen.png,Forward,18,18,11,29,0,,portrait from template-mod-ssl/JIK_ArvidSkogeryd.png
+8321,IBF,IBF Örebro Ung H3,589623,639577,Lucas,Wastesson,Lucas Wastesson,F,7,60,66,IBF_LucasWastesson.png,Forward,13,1,1,2,4,,portrait from template-mod-ssl/JIK_AxelVeress.png
+8321,IBF,IBF Örebro Ung H3,346333,322555,Ludvig,Björkman,Ludvig Björkman,F,81,66,72,IBF_LudvigBjorkman.png,Forward,8,12,7,19,0,,portrait from template-mod-ssl/JIK_BenjaminOLoghlen.png
+8321,IBF,IBF Örebro Ung H3,543832,587409,Lukas,Lindvall,Lukas Lindvall,G,84,59,65,IBF_LukasLindvall.png,Målvakt,8,0,0,0,0,,portrait from template-mod-ssl/JIK_DavidJohannesson.png
+8321,IBF,IBF Örebro Ung H3,538551,581384,Malte,Frid Wallskog,Malte Frid Wallskog,D,72,60,66,IBF_MalteFridWallskog.png,Back,7,1,1,2,0,https://ibis.innebandy.se/images/Spelare/b387f96af27801e19851762be313e22f.jpg,portrait from template-mod-ssl/JIK_EddieSwardh.png
+8321,IBF,IBF Örebro Ung H3,484522,517514,Mille,Kraft,Mille Kraft,C,33,65,71,IBF_MilleKraft.png,Center,26,3,7,10,8,,portrait from template-mod-ssl/JIK_ElliotJohansson.png
+8321,IBF,IBF Örebro Ung H3,510436,548792,Nils,Eriksson,Nils Eriksson,C,73,63,69,IBF_NilsEriksson.png,Center,18,5,4,9,4,,portrait from template-mod-ssl/JIK_EmilJacobsson.png
+8321,IBF,IBF Örebro Ung H3,386140,413104,Nils,Kero,Nils Kero,D,,60,66,IBF_NilsKero.png,Back,2,0,4,4,0,,portrait from template-mod-ssl/JIK_EmilLindh.png
+8321,IBF,IBF Örebro Ung H3,543837,587414,Noah,Funke,Noah Funke,D,77,62,68,IBF_NoahFunke.png,Back,21,3,0,3,4,,portrait from template-mod-ssl/JIK_EmilNilsen.png
+8321,IBF,IBF Örebro Ung H3,76605,476724,Noah,Lindqvist,Noah Lindqvist,C,95,65,71,IBF_NoahLindqvist.png,Center,17,7,8,15,0,,portrait from template-mod-ssl/JIK_EmilOdman.png
+8321,IBF,IBF Örebro Ung H3,526344,567308,Olle,Eriksson Gren,Olle Eriksson Gren,G,22,59,65,IBF_OlleErikssonGren.png,Målvakt,7,0,0,0,0,,portrait from template-mod-ssl/JIK_HannesNystrom.png
+8321,IBF,IBF Örebro Ung H3,401805,402848,Philip,Norin,Philip Norin,D,5,60,66,IBF_PhilipNorin.png,Back,14,0,0,0,2,,portrait from template-mod-ssl/JIK_IsacHolmer.png
+8321,IBF,IBF Örebro Ung H3,280836,147163,Sebastian,Pettersson,Sebastian Pettersson,D,94,61,67,IBF_SebastianPettersson.png,Back,10,3,3,6,2,https://ibis.innebandy.se/images/Person/f6e5ffc76040747cfffe0184b8be1732.jpg,portrait from template-mod-ssl/JIK_JoelNystrom.png
+8321,IBF,IBF Örebro Ung H3,541028,584104,Svante,Nordlander,Svante Nordlander,F,44,73,79,IBF_SvanteNordlander.png,Forward,24,21,13,34,8,,portrait from template-mod-ssl/JIK_MansAndersson.png
+8321,IBF,IBF Örebro Ung H3,585637,634826,Viggo,Björck Vinje,Viggo Björck Vinje,D,98,62,68,IBF_ViggoBjorckVinje.png,Back,16,3,4,7,4,,portrait from template-mod-ssl/JIK_MartinCermak.png
+2958,KUN,Kungsörs IBK H3,363019,397743,Albin,Karlsson,Albin Karlsson,F,27,68,74,KUN_AlbinKarlsson.png,Forward,25,12,8,20,6,https://ibis.innebandy.se/images/Spelare/414ce1c499769e90b8abd3812e2c23cf.jpg,portrait from template-mod-ssl/JIK_NoahJohansson.png
+2958,KUN,Kungsörs IBK H3,14506,86060,Andreas,Granath,Andreas Granath,G,50,59,65,KUN_AndreasGranath.png,Målvakt,10,0,0,0,0,,portrait from template-mod-ssl/JIK_OliverStaiger.png
+2958,KUN,Kungsörs IBK H3,735088,780049,Andreas,Victorin,Andreas Victorin,D,20,60,66,KUN_AndreasVictorin.png,Back,14,1,1,2,0,,portrait from template-mod-ssl/JIK_OscarRohlin.png
+2958,KUN,Kungsörs IBK H3,274059,247709,Carl,Jensen,Carl Jensen,D,84,66,72,KUN_CarlJensen.png,Back,20,11,4,15,14,https://ibis.innebandy.se/images/Spelare/dfa22bd58e740366339b335b32a0d196.jpg,portrait from template-mod-ssl/JIK_SimonHult.png
+2958,KUN,Kungsörs IBK H3,586378,635808,David,Myrelid,David Myrelid,F,16,63,69,KUN_DavidMyrelid.png,Forward,14,6,4,10,6,https://ibis.innebandy.se/images/Spelare/755fb94acf5604012f9256024e5a906c.jpg,portrait from template-mod-ssl/JIK_WalterDahlstrom.png
+2958,KUN,Kungsörs IBK H3,378532,362407,Elliot,Larspers,Elliot Larspers,F,3,72,78,KUN_ElliotLarspers.png,Forward,24,19,10,29,14,,portrait from template-mod-ssl/KAL_AlbinCarlsten.png
+2958,KUN,Kungsörs IBK H3,224319,423002,Emil,Kaneryd,Emil Kaneryd,F,98,70,76,KUN_EmilKaneryd.png,Forward,25,10,16,26,10,https://ibis.innebandy.se/images/Spelare/02ff4d81f9246ca202d2f5cde7204d8f.jpg,portrait from template-mod-ssl/KAL_AlbinHedstal.png
+2958,KUN,Kungsörs IBK H3,516596,555688,Filip,Jonker,Filip Jonker,D,9,70,76,KUN_FilipJonker.png,Back,25,13,11,24,2,https://ibis.innebandy.se/images/Spelare/ff7a6a9636f734fb33756058a3068b60.jpg,portrait from template-mod-ssl/KAL_AndreasLennartsson.png
+2958,KUN,Kungsörs IBK H3,459030,446254,Jack,Axelsson,Jack Axelsson,F,77,75,81,KUN_JackAxelsson.png,Forward,24,16,23,39,12,https://ibis.innebandy.se/images/Spelare/78365fbd640cba4ed27709e5c74f6daf.jpg,portrait from template-mod-ssl/KAL_AntonWillsund.png
+2958,KUN,Kungsörs IBK H3,239571,334932,Johan,Ericsson,Johan Ericsson,F,8,72,78,KUN_JohanEricsson.png,Forward,16,16,18,34,10,,portrait from template-mod-ssl/KAL_AxelAdebrink.png
+2958,KUN,Kungsörs IBK H3,111728,349318,Kevin,Palmér,Kevin Palmér,D,75,61,67,KUN_KevinPalmer.png,Back,13,1,3,4,2,,portrait from template-mod-ssl/KAL_ChristopherDahl.png
+2958,KUN,Kungsörs IBK H3,374833,362413,Linus,Karlsson,Linus Karlsson,F,4,69,75,KUN_LinusKarlsson.png,Forward,20,11,12,23,8,,portrait from template-mod-ssl/KAL_EmilHellgren.png
+2958,KUN,Kungsörs IBK H3,332432,326876,Lucas,Andersson,Lucas Andersson,G,50,60,66,KUN_LucasAndersson.png,Målvakt,19,0,0,0,0,,portrait from template-mod-ssl/KAL_FelixIfwer.png
+2958,KUN,Kungsörs IBK H3,706742,775873,Markus,Norman,Markus Norman,G,33,61,67,KUN_MarkusNorman.png,Målvakt,22,0,1,1,0,,portrait from template-mod-ssl/KAL_GabrielErol.png
+2958,KUN,Kungsörs IBK H3,237843,480776,Moltas,Hjalmarsson,Moltas Hjalmarsson,F,14,59,65,KUN_MoltasHjalmarsson.png,Forward,7,0,0,0,2,https://ibis.innebandy.se/images/Spelare/faa52c4a3acb049402ac5e4c6183f802.jpg,portrait from template-mod-ssl/KAL_JesperLindstrom.png
+2958,KUN,Kungsörs IBK H3,92474,355496,Oscar,Karjalainen,Oscar Karjalainen,F,92,62,68,KUN_OscarKarjalainen.png,Forward,10,4,4,8,0,,portrait from template-mod-ssl/KAL_JohanPalmqvist.png
+2958,KUN,Kungsörs IBK H3,401125,34428,Peter,Skogsberg,Peter Skogsberg,D,5,64,70,KUN_PeterSkogsberg.png,Back,23,0,11,11,6,,portrait from template-mod-ssl/KAL_KevinHaglund.png
+2958,KUN,Kungsörs IBK H3,433549,293664,Pontus,Johansson,Pontus Johansson,F,24,61,67,KUN_PontusJohansson.png,Forward,20,0,1,1,2,https://ibis.innebandy.se/images/Spelare/b8f77a4bbafd9823721c18363457a90c.jpg,portrait from template-mod-ssl/KAL_LinusMalmstrom.png
+2958,KUN,Kungsörs IBK H3,165168,426379,Rasmus,Ericsson,Rasmus Ericsson,G,61,58,64,KUN_RasmusEricsson.png,Målvakt,2,0,0,0,0,,portrait from template-mod-ssl/KAL_MaxAntonsson.png
+2958,KUN,Kungsörs IBK H3,46621,145622,Robin,Karlsson,Robin Karlsson,D,22,63,69,KUN_RobinKarlsson.png,Back,20,4,3,7,8,https://ibis.innebandy.se/images/Spelare/03076e3b90d12de9d57a4c128aa07c67.jpg,portrait from template-mod-ssl/KAL_PontusZarins.png
+2958,KUN,Kungsörs IBK H3,270293,86080,Robin,Lövstedt,Robin Lövstedt,F,2,66,72,KUN_RobinLovstedt.png,Forward,22,8,6,14,2,,portrait from template-mod-ssl/KAL_SebastianTheorin.png
+2958,KUN,Kungsörs IBK H3,25650,418190,Sebastian,Rygaard,Sebastian Rygaard,F,69,81,87,KUN_SebastianRygaard.png,Forward,20,38,17,55,4,,portrait from template-mod-ssl/KAL_StefanHutzli.png
+2958,KUN,Kungsörs IBK H3,399632,289163,Tintin,Ljungström,Tintin Ljungström,D,13,64,70,KUN_TintinLjungstrom.png,Back,23,4,6,10,4,,portrait from template-mod-ssl/KAL_TobiasLindstrom.png
+2958,KUN,Kungsörs IBK H3,413412,244680,Tobias,Jansson,Tobias Jansson,D,11,59,65,KUN_TobiasJansson.png,Back,5,0,1,1,0,,portrait from template-mod-ssl/KAL_VictorWettergren.png
+2958,KUN,Kungsörs IBK H3,209489,144057,Tobias,Larsson,Tobias Larsson,D,7,65,71,KUN_TobiasLarsson.png,Back,21,2,11,13,6,https://ibis.innebandy.se/images/Person/004f80e7f7de9dfcf83c20e0174e41cd.jpg,portrait from template-mod-ssl/KAL_WilliamAlvarmo.png
+118252,RBV,Rocklunda Barkarö IBK Västerås,243921,410640,Andreas,Haane,Andreas Haane,G,32,59,65,RBV_AndreasHaane.png,Målvakt,5,0,2,2,0,,portrait from template-mod-ssl/KAL_WilliamForsmanEklund.png
+118252,RBV,Rocklunda Barkarö IBK Västerås,132845,373600,Arvid,Danielsson,Arvid Danielsson,G,72,59,65,RBV_ArvidDanielsson.png,Målvakt,7,0,1,1,0,,portrait from template-mod-ssl/LIBK_AhmadAldeeb.png
+118252,RBV,Rocklunda Barkarö IBK Västerås,226983,454049,Casper,Pontelius,Casper Pontelius,D,27,64,70,RBV_CasperPontelius.png,Back,7,7,7,14,2,https://ibis.innebandy.se/images/Spelare/3d3db8b01a4d084101c8737a4e782402.jpg,portrait from template-mod-ssl/LIBK_AntonGroon.png
+118252,RBV,Rocklunda Barkarö IBK Västerås,342456,334497,Dennis,Melin,Dennis Melin,F,65,61,67,RBV_DennisMelin.png,Forward,10,3,2,5,18,https://ibis.innebandy.se/images/Spelare/b9fe16360e312576eea8859cc273d9a0.jpg,portrait from template-mod-ssl/LIBK_AntonLundquist.png
+118252,RBV,Rocklunda Barkarö IBK Västerås,133171,309405,Elias,Sahlin,Elias Sahlin,F,79,75,81,RBV_EliasSahlin.png,Forward,17,21,20,41,0,,portrait from template-mod-ssl/LIBK_AugustBergkvist.png
+118252,RBV,Rocklunda Barkarö IBK Västerås,417004,401567,Emil,Andersson,Emil Andersson,F,95,62,68,RBV_EmilAndersson.png,Forward,14,4,3,7,0,,portrait from template-mod-ssl/LIBK_FelixSunell.png
+118252,RBV,Rocklunda Barkarö IBK Västerås,403130,342372,Felix,Pedersen,Felix Pedersen,D,34,60,66,RBV_FelixPedersen.png,Back,12,0,3,3,0,,portrait from template-mod-ssl/LIBK_FilipLaurell.png
+118252,RBV,Rocklunda Barkarö IBK Västerås,60067,282900,Filip,Roos,Filip Roos,F,7,80,86,RBV_FilipRoos.png,Forward,20,38,16,54,0,,portrait from template-mod-ssl/LIBK_GustavSundqvist.png
+118252,RBV,Rocklunda Barkarö IBK Västerås,69666,206160,Jesper,Ståhlbrand,Jesper Ståhlbrand,D,66,65,71,RBV_JesperStahlbrand.png,Back,20,7,5,12,4,,portrait from template-mod-ssl/LIBK_HampusAndersson.png
+118252,RBV,Rocklunda Barkarö IBK Västerås,81261,410680,John,Johansson Boman,John Johansson Boman,D,31,59,65,RBV_JohnJohanssonBoman.png,Back,5,1,0,1,0,,portrait from template-mod-ssl/LIBK_JesperAlm.png
+118252,RBV,Rocklunda Barkarö IBK Västerås,9084,276036,Jonathan,Wahlqvist,Jonathan Wahlqvist,G,97,59,65,RBV_JonathanWahlqvist.png,Målvakt,12,0,0,0,0,,portrait from template-mod-ssl/LIBK_JosefRypar.png
+118252,RBV,Rocklunda Barkarö IBK Västerås,251545,244356,Kevin,Borg,Kevin Borg,C,97,60,66,RBV_KevinBorg.png,Center,5,5,0,5,4,https://ibis.innebandy.se/images/Person/00940b4ff6a76aee4398023e4695e030.jpg,portrait from template-mod-ssl/LIBK_KevinSoderling.png
+118252,RBV,Rocklunda Barkarö IBK Västerås,296856,400084,Kristofer,Jandelius,Kristofer Jandelius,G,99,59,65,RBV_KristoferJandelius.png,Målvakt,2,0,1,1,0,,portrait from template-mod-ssl/LIBK_KimVarga.png
+118252,RBV,Rocklunda Barkarö IBK Västerås,113519,426067,Marcus,Gotti,Marcus Gotti,D,77,61,67,RBV_MarcusGotti.png,Back,14,2,3,5,2,,portrait from template-mod-ssl/LIBK_LudvigOberg.png
+118252,RBV,Rocklunda Barkarö IBK Västerås,3954,282868,Marcus,Ohrlander,Marcus Ohrlander,D,17,62,68,RBV_MarcusOhrlander.png,Back,8,2,6,8,0,,portrait from template-mod-ssl/LIBK_LukasEldholm.png
+118252,RBV,Rocklunda Barkarö IBK Västerås,392688,211222,Mårten,Stenbacka,Mårten Stenbacka,D,94,62,68,RBV_MartenStenbacka.png,Back,15,1,5,6,4,,portrait from template-mod-ssl/LIBK_LukasPuncochar.png
+118252,RBV,Rocklunda Barkarö IBK Västerås,463599,242207,Nawzad,Palani,Nawzad Palani,C,24,66,72,RBV_NawzadPalani.png,Center,13,9,8,17,8,,portrait from template-mod-ssl/LIBK_MartinKarlsson.png
+118252,RBV,Rocklunda Barkarö IBK Västerås,297651,457012,Rasmus,Pontelius,Rasmus Pontelius,F,13,62,68,RBV_RasmusPontelius.png,Forward,8,8,1,9,0,,portrait from template-mod-ssl/LIBK_MatejJendrisak.png
+118252,RBV,Rocklunda Barkarö IBK Västerås,434755,411069,Theo,Wold,Theo Wold,F,22,67,73,RBV_TheoWold.png,Forward,7,16,6,22,0,,portrait from template-mod-ssl/LIBK_MelkerHemmingberg.png
+118252,RBV,Rocklunda Barkarö IBK Västerås,397715,328474,Tim,Bostedt,Tim Bostedt,D,15,67,73,RBV_TimBostedt.png,Back,18,12,8,20,4,,portrait from template-mod-ssl/LIBK_OskarHovlund.png
+118252,RBV,Rocklunda Barkarö IBK Västerås,173207,277230,Vilhelm,Karlsson,Vilhelm Karlsson,C,21,71,77,RBV_VilhelmKarlsson.png,Center,18,8,24,32,0,,portrait from template-mod-ssl/LIBK_OskarSeth.png
+118252,RBV,Rocklunda Barkarö IBK Västerås,156776,206166,William,Gotti,William Gotti,F,10,69,75,RBV_WilliamGotti.png,Forward,19,11,13,24,2,,portrait from template-mod-ssl/LIBK_PhilipFox.png
+118252,RBV,Rocklunda Barkarö IBK Västerås,41959,336294,William,Sjöberg,William Sjöberg,F,11,70,76,RBV_WilliamSjoberg.png,Forward,18,12,17,29,26,,portrait from template-mod-ssl/LIBK_SimonPalmen.png
+21617,OSK,Örebro SK Ungdomsklubb,250307,382333,Albert,Melander,Albert Melander,F,52,59,65,OSK_AlbertMelander.png,,12,0,0,0,0,,portrait from template-mod-ssl/LIBK_TomasJurco.png
+21617,OSK,Örebro SK Ungdomsklubb,503474,537676,Albin,Hildingsson,Albin Hildingsson,F,88,58,64,OSK_AlbinHildingsson.png,,0,0,0,0,0,,portrait from template-mod-ssl/MAIS_AlexanderSvensson.png
+21617,OSK,Örebro SK Ungdomsklubb,167176,495675,Albin,Ljunggren,Albin Ljunggren,F,35,58,64,OSK_AlbinLjunggren.png,,0,0,0,0,0,,portrait from template-mod-ssl/MAIS_AlfredSandstrom.png
+21617,OSK,Örebro SK Ungdomsklubb,25591,495648,Anton,Arneback,Anton Arneback,F,71,58,64,OSK_AntonArneback.png,,0,0,0,0,0,,portrait from template-mod-ssl/MAIS_AntonHedin.png
+21617,OSK,Örebro SK Ungdomsklubb,296714,498807,Anton,Utter,Anton Utter,F,17,58,64,OSK_AntonUtter.png,,0,0,0,0,0,,portrait from template-mod-ssl/MAIS_ArvidWibringLindqvist.png
+21617,OSK,Örebro SK Ungdomsklubb,488137,521379,Elliot,Lindhagen,Elliot Lindhagen,F,17,58,64,OSK_ElliotLindhagen.png,,0,0,0,0,0,,portrait from template-mod-ssl/MAIS_CasperKarlsson.png
+21617,OSK,Örebro SK Ungdomsklubb,583298,631320,Elton,Berglund,Elton Berglund,F,90,58,64,OSK_EltonBerglund.png,,0,0,0,0,0,,portrait from template-mod-ssl/MAIS_FabianSammemyr.png
+21617,OSK,Örebro SK Ungdomsklubb,572666,619409,Filip,Jansson,Filip Jansson,F,9,58,64,OSK_FilipJansson.png,,0,0,0,0,0,,portrait from template-mod-ssl/MAIS_FilipAkerblom.png
+21617,OSK,Örebro SK Ungdomsklubb,31050,386788,Gabriel,Ahlm,Gabriel Ahlm,F,15,58,64,OSK_GabrielAhlm.png,,0,0,0,0,0,https://ibis.innebandy.se/images/Spelare/687e0d2bafc7e6ec43af9c3f65b45508.jpg,portrait from template-mod-ssl/MAIS_GustavJansson.png
+21617,OSK,Örebro SK Ungdomsklubb,534875,577001,Gustav,Eklund,Gustav Eklund,F,26,65,71,OSK_GustavEklund.png,,16,6,8,14,14,,portrait from template-mod-ssl/MAIS_HampusMorelius.png
+21617,OSK,Örebro SK Ungdomsklubb,499854,533829,Gustav,Utter,Gustav Utter,G,1,58,64,OSK_GustavUtter.png,Målvakt,0,0,0,0,0,,portrait from template-mod-ssl/MAIS_HugoHellgren.png
+21617,OSK,Örebro SK Ungdomsklubb,21754,497405,Hugo,Bornegård,Hugo Bornegård,F,36,58,64,OSK_HugoBornegard.png,,0,0,0,0,0,,portrait from template-mod-ssl/MAIS_JosefSankell.png
+21617,OSK,Örebro SK Ungdomsklubb,587965,637681,Jack,Boman,Jack Boman,F,11,58,64,OSK_JackBoman.png,,0,0,0,0,0,,portrait from template-mod-ssl/MAIS_LoweJellnor.png
+21617,OSK,Örebro SK Ungdomsklubb,103891,411252,Jacob,Olofsson,Jacob Olofsson,F,99,58,64,OSK_JacobOlofsson.png,,0,0,0,0,0,,portrait from template-mod-ssl/MAIS_MartinBarback.png
+21617,OSK,Örebro SK Ungdomsklubb,544703,588366,Leo,Birgersson,Leo Birgersson,F,96,58,64,OSK_LeoBirgersson.png,,0,0,0,0,0,,portrait from template-mod-ssl/MAIS_MartinRonnklint.png
+21617,OSK,Örebro SK Ungdomsklubb,227646,491773,Ludvig,Jörtsö,Ludvig Jörtsö,F,25,58,64,OSK_LudvigJortso.png,,0,0,0,0,0,,portrait from template-mod-ssl/MAIS_OlleJoakimson.png
+21617,OSK,Örebro SK Ungdomsklubb,222436,497411,Max,Andersson,Max Andersson,F,87,58,64,OSK_MaxAndersson.png,,0,0,0,0,0,,portrait from template-mod-ssl/MAIS_OskarLiberg.png
+21617,OSK,Örebro SK Ungdomsklubb,180285,484721,Max,Björk,Max Björk,F,95,58,64,OSK_MaxBjork.png,,0,0,0,0,0,,portrait from template-mod-ssl/MAIS_OskarMalmgren.png
+21617,OSK,Örebro SK Ungdomsklubb,65386,484731,Melvin,Frid,Melvin Frid,F,5,58,64,OSK_MelvinFrid.png,,0,0,0,0,0,https://ibis.innebandy.se/images/Spelare/15c41548759b80374bb84cce880ea663.jpg,portrait from template-mod-ssl/MAIS_PelleTarenius.png
+21617,OSK,Örebro SK Ungdomsklubb,500447,534484,Melvin,Sellin,Melvin Sellin,F,10,58,64,OSK_MelvinSellin.png,,0,0,0,0,0,,portrait from template-mod-ssl/MAIS_PontusNilsson.png
+21617,OSK,Örebro SK Ungdomsklubb,499855,533830,Melvin,Wicklander,Melvin Wicklander,F,22,58,64,OSK_MelvinWicklander.png,,0,0,0,0,0,,portrait from template-mod-ssl/MAIS_SamuelJonssonDolke.png
+21617,OSK,Örebro SK Ungdomsklubb,406091,495661,Måns,Juliusson,Måns Juliusson,F,21,58,64,OSK_MansJuliusson.png,,1,0,0,0,0,,portrait from template-mod-ssl/MAIS_SebastianPalmqvist.png
+21617,OSK,Örebro SK Ungdomsklubb,326678,495676,Måns,Marberg,Måns Marberg,F,27,58,64,OSK_MansMarberg.png,,0,0,0,0,0,,portrait from template-mod-ssl/MAIS_TimAnderssonCarlsson.png
+21617,OSK,Örebro SK Ungdomsklubb,490573,524042,Olle,Wahman,Olle Wahman,F,25,58,64,OSK_OlleWahman.png,,0,0,0,0,0,,portrait from template-mod-ssl/MAIS_VictorJensen.png
+21617,OSK,Örebro SK Ungdomsklubb,530810,572156,Oscar,Lindeberg,Oscar Lindeberg,F,18,58,64,OSK_OscarLindeberg.png,,0,0,0,0,0,,portrait from template-mod-ssl/MAIS_WilliamSnall.png
+21617,OSK,Örebro SK Ungdomsklubb,424469,378837,Rasmus,Lindberg,Rasmus Lindberg,F,98,58,64,OSK_RasmusLindberg.png,,0,0,0,0,0,,portrait from template-mod-ssl/NYK_AdamOgren.png
+21617,OSK,Örebro SK Ungdomsklubb,485633,518746,Ruben,Samuelsson,Ruben Samuelsson,F,97,58,64,OSK_RubenSamuelsson.png,,0,0,0,0,0,,portrait from template-mod-ssl/NYK_AlexanderIsberg.png
+21617,OSK,Örebro SK Ungdomsklubb,271392,336690,Samuel,Nissinen-Eriksson,Samuel Nissinen-Eriksson,F,16,58,64,OSK_SamuelNissinenEriksson.png,,0,0,0,0,0,https://ibis.innebandy.se/images/Spelare/deeac96747c39af4fe51f99cc79ca8eb.jpg,portrait from template-mod-ssl/NYK_BenjaminLindskog.png
+21617,OSK,Örebro SK Ungdomsklubb,488136,521378,Tage,König,Tage König,F,3,58,64,OSK_TageKonig.png,,0,0,0,0,0,,portrait from template-mod-ssl/NYK_DanielJohansson.png
+21617,OSK,Örebro SK Ungdomsklubb,15125,495650,Tim,Erhard,Tim Erhard,F,86,59,65,OSK_TimErhard.png,,4,2,0,2,0,,portrait from template-mod-ssl/NYK_DennisAndersson.png
+21617,OSK,Örebro SK Ungdomsklubb,10413,360740,Tim,Nissinen Eriksson,Tim Nissinen Eriksson,F,77,58,64,OSK_TimNissinenEriksson.png,,0,0,0,0,0,https://ibis.innebandy.se/images/Spelare/ff12592a08c792faa97fd3d2dc40f1cd.jpg,portrait from template-mod-ssl/NYK_EddieRigogiannisGranlof.png
+21617,OSK,Örebro SK Ungdomsklubb,7783,449506,Vincent,Lagerlöf,Vincent Lagerlöf,F,13,58,64,OSK_VincentLagerlof.png,,0,0,0,0,0,,portrait from template-mod-ssl/NYK_FilipCeder.png
+117018,KOP,IBK Köping Ung H3,421619,242851,Adam,Lundström,Adam Lundström,F,19,73,79,KOP_AdamLundstrom.png,,25,24,9,33,6,https://ibis.innebandy.se/images/Spelare/83a5f85f2c41ac4e21f53cd9c62b2b5e.jpg,portrait from template-mod-ssl/NYK_GustavHansen.png
+117018,KOP,IBK Köping Ung H3,520616,560078,Albin,Johansson,Albin Johansson,F,43,61,67,KOP_AlbinJohansson.png,,16,2,0,2,0,https://ibis.innebandy.se/images/Spelare/d0b455348f1c2c35cdad363d696bb7da.jpg,portrait from template-mod-ssl/NYK_HampusAhren.png
+117018,KOP,IBK Köping Ung H3,335868,471248,Alex,Jensen,Alex Jensen,F,,58,64,KOP_AlexJensen.png,,3,0,0,0,0,,portrait from template-mod-ssl/NYK_JesperAhren.png
+117018,KOP,IBK Köping Ung H3,117747,267690,Anton,Bruhn,Anton Bruhn,F,30,60,66,KOP_AntonBruhn.png,,18,0,0,0,0,https://ibis.innebandy.se/images/Spelare/84907fd74d494349854b28d8fba15ef4.jpg,portrait from template-mod-ssl/NYK_KarljohanAhlroth.png
+117018,KOP,IBK Köping Ung H3,93482,361993,Anton,Johansson,Anton Johansson,F,14,60,66,KOP_AntonJohansson.png,,11,2,1,3,2,https://ibis.innebandy.se/images/Spelare/afa3cfee593e324074d74c2d13a61a97.jpg,portrait from template-mod-ssl/NYK_KevinMattsson.png
+117018,KOP,IBK Köping Ung H3,81454,449550,August,Sundius,August Sundius,F,55,60,66,KOP_AugustSundius.png,,11,0,1,1,2,https://ibis.innebandy.se/images/Spelare/ca89b7b947afed6fd6ad6b5e9f205805.jpg,portrait from template-mod-ssl/NYK_KevinRigogiannis.png
+117018,KOP,IBK Köping Ung H3,549873,593999,Dani,Zakidan,Dani Zakidan,F,33,63,69,KOP_DaniZakidan.png,,26,3,2,5,4,https://ibis.innebandy.se/images/Spelare/a1273a256ce7fb2c132ae256ebb44809.jpg,portrait from template-mod-ssl/NYK_LiamArvidsson.png
+117018,KOP,IBK Köping Ung H3,483987,516897,Elis,Hagelin,Elis Hagelin,F,93,60,66,KOP_ElisHagelin.png,,14,0,0,0,2,https://ibis.innebandy.se/images/Spelare/1f0422f1468138aab53005997906e29d.jpg,portrait from template-mod-ssl/NYK_LucasOrrmo.png
+117018,KOP,IBK Köping Ung H3,553404,597805,Emil,Westberg,Emil Westberg,F,91,58,64,KOP_EmilWestberg.png,,3,0,0,0,0,https://ibis.innebandy.se/images/Spelare/4fd85c32f846c70fefb8c9e8ffaf53f5.jpg,portrait from template-mod-ssl/NYK_LucasRigogiannis.png
+117018,KOP,IBK Köping Ung H3,520577,560032,Erik,Gravelie,Erik Gravelie,F,49,60,66,KOP_ErikGravelie.png,,14,0,1,1,0,https://ibis.innebandy.se/images/Spelare/a9cabe587c8e7c04641990653f5610f1.jpg,portrait from template-mod-ssl/NYK_LukasKarlsson.png
+117018,KOP,IBK Köping Ung H3,453484,487438,Hugo,Edlund,Hugo Edlund,F,16,75,81,KOP_HugoEdlund.png,,27,21,17,38,6,https://ibis.innebandy.se/images/Spelare/c4ccf7521d63452f1980591e341787ba.jpg,portrait from template-mod-ssl/NYK_MarkusJonsson.png
+117018,KOP,IBK Köping Ung H3,74033,476923,Hugo,Torvang,Hugo Torvang,G,22,60,66,KOP_HugoTorvang.png,Målvakt,18,0,0,0,0,https://ibis.innebandy.se/images/Spelare/bd28d8337bf17e63bd70b06a94af9732.jpg,portrait from template-mod-ssl/NYK_NiklasOhlstrom.png
+117018,KOP,IBK Köping Ung H3,476822,507885,Isach,Madaj,Isach Madaj,G,2,59,65,KOP_IsachMadaj.png,Målvakt,7,0,0,0,0,,portrait from template-mod-ssl/NYK_OscarFondelius.png
+117018,KOP,IBK Köping Ung H3,596720,647701,Jacob,Nyhlen,Jacob Nyhlen,G,1,58,64,KOP_JacobNyhlen.png,Målvakt,4,0,0,0,0,https://ibis.innebandy.se/images/Spelare/963ac59e65eb90694911fa2b341802bc.jpg,portrait from template-mod-ssl/NYK_PatrikGustavsson.png
+117018,KOP,IBK Köping Ung H3,530462,571794,Johan,Edberg,Johan Edberg,F,29,61,67,KOP_JohanEdberg.png,,23,1,1,2,0,https://ibis.innebandy.se/images/Spelare/aea1e0abc1fada9479c828bb91847e96.jpg,portrait from template-mod-ssl/NYK_SebastianThorberg.png
+117018,KOP,IBK Köping Ung H3,201592,476925,Johannes,Andreasson,Johannes Andreasson,F,10,70,76,KOP_JohannesAndreasson.png,,19,14,12,26,0,https://ibis.innebandy.se/images/Spelare/74b45e524eca18c865d8ddb640b6c494.jpg,portrait from template-mod-ssl/NYK_SimonJohansson.png
+117018,KOP,IBK Köping Ung H3,242629,446252,Jojje,Alriksson,Jojje Alriksson,F,21,63,69,KOP_JojjeAlriksson.png,,17,5,2,7,2,https://ibis.innebandy.se/images/Spelare/9d84635a80c3509b8c4afac84fb72d1c.jpg,portrait from template-mod-ssl/NYK_SimonWestgards.png
+117018,KOP,IBK Köping Ung H3,501248,535359,Justin,Åhlander,Justin Åhlander,F,96,69,75,KOP_JustinAhlander.png,,25,13,8,21,0,https://ibis.innebandy.se/images/Spelare/7668c0dc0523bb0144674cff844f4768.jpg,portrait from template-mod-ssl/NYK_ValdemarAhlroth.png
+117018,KOP,IBK Köping Ung H3,570067,616539,Leon,Alfredsson,Leon Alfredsson,F,86,65,71,KOP_LeonAlfredsson.png,,28,5,5,10,4,https://ibis.innebandy.se/images/Spelare/a0ba1b518dc7beb1d6c50ef8ada7ca11.jpg,portrait from template-mod-ssl/PIX_AlfredPettersson.png
+117018,KOP,IBK Köping Ung H3,456662,446265,Linus,Reinholdsson,Linus Reinholdsson,F,88,62,68,KOP_LinusReinholdsson.png,,21,0,5,5,0,https://ibis.innebandy.se/images/Spelare/38fdd678791e73796e026397a3b79a05.jpg,portrait from template-mod-ssl/PIX_ArvidAse.png
+117018,KOP,IBK Köping Ung H3,520586,560042,Lucas,Södervall,Lucas Södervall,F,98,63,69,KOP_LucasSodervall.png,,17,5,2,7,0,https://ibis.innebandy.se/images/Spelare/5c69181a265206e13874833c8ce19870.jpg,portrait from template-mod-ssl/PIX_ArwidHedlund.png
+117018,KOP,IBK Köping Ung H3,527665,568732,Lucas,Åkervall,Lucas Åkervall,F,48,59,65,KOP_LucasAkervall.png,,9,0,0,0,4,https://ibis.innebandy.se/images/Spelare/6dd5a5f5433e617b261adb51746c8983.jpg,portrait from template-mod-ssl/PIX_BenjaminSchill.png
+117018,KOP,IBK Köping Ung H3,514249,553074,Lukas,Phraiwan,Lukas Phraiwan,F,94,60,66,KOP_LukasPhraiwan.png,,3,3,0,3,0,,portrait from template-mod-ssl/PIX_EmilKalentun.png
+117018,KOP,IBK Köping Ung H3,483989,516899,Malte,Bergqvist,Malte Bergqvist,F,68,70,76,KOP_MalteBergqvist.png,,22,11,16,27,0,https://ibis.innebandy.se/images/Spelare/fafd8a0824ca8f95f155304cc6c80272.jpg,portrait from template-mod-ssl/PIX_FabianLindback.png
+117018,KOP,IBK Köping Ung H3,71411,124675,Mikael,Landqvist,Mikael Landqvist,F,20,62,68,KOP_MikaelLandqvist.png,,13,2,6,8,0,https://ibis.innebandy.se/images/Spelare/af53aa7073dfd26c04ac4055055dd716.jpg,portrait from template-mod-ssl/PIX_FilipKalentun.png
+117018,KOP,IBK Köping Ung H3,501251,535362,Nils,Franson,Nils Franson,F,26,62,68,KOP_NilsFranson.png,,13,4,4,8,2,https://ibis.innebandy.se/images/Spelare/e010293c416fcfeeae36bd9997410fc2.jpg,portrait from template-mod-ssl/PIX_FilipWramdemark.png
+117018,KOP,IBK Köping Ung H3,137909,502847,Oliwer,Zetterdahl,Oliwer Zetterdahl,F,18,63,69,KOP_OliwerZetterdahl.png,,22,0,7,7,4,https://ibis.innebandy.se/images/Spelare/f75871cd1452886aebbe15d7c82e2ef6.jpg,portrait from template-mod-ssl/PIX_GustavLindberg.png
+117018,KOP,IBK Köping Ung H3,66106,471240,Olle,Baresic,Olle Baresic,F,14,58,64,KOP_OlleBaresic.png,,1,0,0,0,0,,portrait from template-mod-ssl/PIX_JakobHeins.png
+117018,KOP,IBK Köping Ung H3,118161,139419,Pontus,Andersson,Pontus Andersson,F,62,65,71,KOP_PontusAndersson.png,,16,10,4,14,4,https://ibis.innebandy.se/images/Spelare/ea1e0541d24bf715aa457b0b148682ba.jpg,portrait from template-mod-ssl/PIX_JakubFaksa.png
+117018,KOP,IBK Köping Ung H3,542038,585233,Sebastian,Bergström,Sebastian Bergström,F,50,61,67,KOP_SebastianBergstrom.png,,11,1,5,6,4,https://ibis.innebandy.se/images/Spelare/ba9cf166a9c8e57f4168d62e5360312c.jpg,portrait from template-mod-ssl/PIX_JoelLindberg.png
+117018,KOP,IBK Köping Ung H3,233781,360558,Thim,Smedbrant,Thim Smedbrant,F,87,68,74,KOP_ThimSmedbrant.png,,26,9,10,19,6,https://ibis.innebandy.se/images/Spelare/e95645ce6a2bef968242a674dee10dc3.jpg,portrait from template-mod-ssl/PIX_JonHedlund.png
+117018,KOP,IBK Köping Ung H3,519063,558391,Victor,Wallin,Victor Wallin,F,75,61,67,KOP_VictorWallin.png,,16,1,2,3,0,https://ibis.innebandy.se/images/Spelare/106d96c5907875d133363ddf968e77d8.jpg,portrait from template-mod-ssl/PIX_LiamJuhlin.png
+117018,KOP,IBK Köping Ung H3,543086,586524,William,Zeijlon,William Zeijlon,G,44,59,65,KOP_WilliamZeijlon.png,Målvakt,9,0,0,0,0,https://ibis.innebandy.se/images/Spelare/6de178904a5c81151ff53aa7f9996cb9.jpg,portrait from template-mod-ssl/PIX_LinusNestorsson.png
+117040,EKE,Ekeby IF H3,543819,587396,Albin,Collin,Albin Collin,D,11,61,67,EKE_AlbinCollin.png,Back,15,0,3,3,4,,portrait from template-mod-ssl/PIX_MarcusPeil.png
+117040,EKE,Ekeby IF H3,427723,115356,Albin,Conradsson,Albin Conradsson,C,77,58,64,EKE_AlbinConradsson.png,Center,0,0,0,0,0,,portrait from template-mod-ssl/PIX_MelvinLutmers.png
+117040,EKE,Ekeby IF H3,313598,444516,Albin,Leufstadius,Albin Leufstadius,D,9,60,66,EKE_AlbinLeufstadius.png,Back,10,1,1,2,12,,portrait from template-mod-ssl/PIX_OliwerNyren.png
+117040,EKE,Ekeby IF H3,513413,552132,Alexander,Jedhamre,Alexander Jedhamre,D,7,67,73,EKE_AlexanderJedhamre.png,Back,14,8,13,21,0,,portrait from template-mod-ssl/PIX_VaclavBabik.png
+117040,EKE,Ekeby IF H3,540252,583244,Alfred,Leonard,Alfred Leonard,G,1,59,65,EKE_AlfredLeonard.png,Målvakt,6,0,0,0,0,,portrait from template-mod-ssl/PIX_VictorJohansson.png
+117040,EKE,Ekeby IF H3,41943,24116,David,Hedlund,David Hedlund,D,97,58,64,EKE_DavidHedlund.png,Back,0,0,0,0,0,,portrait from template-mod-ssl/PIX_WictorLundstedt.png
+117040,EKE,Ekeby IF H3,160484,70945,Emil,Ström,Emil Ström,F,55,58,64,EKE_EmilStrom.png,Forward,0,0,0,0,0,,portrait from template-mod-ssl/STO_ArvidHansson.png
+117040,EKE,Ekeby IF H3,358793,117399,Eric,Ström,Eric Ström,D,91,64,70,EKE_EricStrom.png,Back,12,6,6,12,10,,portrait from template-mod-ssl/STO_CarlKostovBredberg.png
+117040,EKE,Ekeby IF H3,513408,552127,Filip,Ahlgren,Filip Ahlgren,G,30,59,65,EKE_FilipAhlgren.png,Målvakt,8,0,0,0,0,,portrait from template-mod-ssl/STO_Emil Mattsson.png
+117040,EKE,Ekeby IF H3,403812,147151,Filip,Gärskog,Filip Gärskog,F,,62,68,EKE_FilipGarskog.png,,9,3,6,9,0,,portrait from template-mod-ssl/STO_EmilHelmrich.png
+117040,EKE,Ekeby IF H3,337810,121303,Fredrik,Fischerström Eriksson,Fredrik Fischerström Eriksson,D,38,59,65,EKE_FredrikFischerstromEriksson.png,Back,6,1,0,1,0,,portrait from template-mod-ssl/STO_EmilLindblom.png
+117040,EKE,Ekeby IF H3,471648,113425,Fredrik,Nilsson,Fredrik Nilsson,C,39,58,64,EKE_FredrikNilsson.png,Center,0,0,0,0,0,,portrait from template-mod-ssl/STO_FilipBjork.png
+117040,EKE,Ekeby IF H3,163860,56500,Fredrik,Åhlberg,Fredrik Åhlberg,F,18,72,78,EKE_FredrikAhlberg.png,Forward,25,22,9,31,6,https://ibis.innebandy.se/images/Spelare/9eb2860f8e84d8b9f55e01fbc5aaeb56.jpg,portrait from template-mod-ssl/STO_FilipEriksson.png
+117040,EKE,Ekeby IF H3,513404,552123,Gustav,Franzén,Gustav Franzén,C,10,70,76,EKE_GustavFranzen.png,Center,18,14,12,26,4,,portrait from template-mod-ssl/STO_FilipLanger.png
+117040,EKE,Ekeby IF H3,513403,552122,Hugo,Klarvik,Hugo Klarvik,D,5,63,69,EKE_HugoKlarvik.png,Back,20,5,1,6,10,,portrait from template-mod-ssl/STO_GabrielKohonen.png
+117040,EKE,Ekeby IF H3,208619,473043,Isak,Hulterström,Isak Hulterström,D,39,59,65,EKE_IsakHulterstrom.png,Back,8,0,1,1,0,,portrait from template-mod-ssl/STO_HampusNydenfeldt.png
+117040,EKE,Ekeby IF H3,513400,552119,Isak,Wulff,Isak Wulff,F,14,70,76,EKE_IsakWulff.png,Forward,16,14,13,27,6,,portrait from template-mod-ssl/STO_MansParsjo.png
+117040,EKE,Ekeby IF H3,41866,63629,Jimmy,Thurgren,Jimmy Thurgren,G,88,59,65,EKE_JimmyThurgren.png,Målvakt,7,0,0,0,0,,portrait from template-mod-ssl/STO_OndrejNemecek.png
+117040,EKE,Ekeby IF H3,481369,513651,Jonathan,Hammander,Jonathan Hammander,F,6,70,76,EKE_JonathanHammander.png,Forward,26,20,4,24,6,https://ibis.innebandy.se/images/Person/345c14f1bb115fefe7beb674dc21756c.jpg,portrait from template-mod-ssl/STO_OscarMagnusson.png
+117040,EKE,Ekeby IF H3,267832,445148,Kevin,Nilsson,Kevin Nilsson,F,95,62,68,EKE_KevinNilsson.png,Forward,21,0,3,3,2,,portrait from template-mod-ssl/STO_OskarEnquist.png
+117040,EKE,Ekeby IF H3,540275,583267,Lucas,Ekström,Lucas Ekström,F,24,62,68,EKE_LucasEkstrom.png,Forward,16,3,4,7,2,,portrait from template-mod-ssl/STO_OttoWeidman.png
+117040,EKE,Ekeby IF H3,488135,521377,Ludvig,Kanusson,Ludvig Kanusson,F,92,58,64,EKE_LudvigKanusson.png,Forward,0,0,0,0,0,,portrait from template-mod-ssl/STO_PascalSchmuki.png
+117040,EKE,Ekeby IF H3,545996,589786,Lukas,Holm,Lukas Holm,F,21,63,69,EKE_LukasHolm.png,Forward,16,4,5,9,6,,portrait from template-mod-ssl/STO_RasmusAndersson.png
+117040,EKE,Ekeby IF H3,417800,70944,Magnus,Lundqvist,Magnus Lundqvist,D,25,58,64,EKE_MagnusLundqvist.png,Back,0,0,0,0,0,,portrait from template-mod-ssl/STO_SakariasUlriksson.png
+117040,EKE,Ekeby IF H3,565011,610726,Martin,Sjöqvist,Martin Sjöqvist,F,17,58,64,EKE_MartinSjoqvist.png,Forward,0,0,0,0,0,,portrait from template-mod-ssl/STO_SimonGotz.png
+117040,EKE,Ekeby IF H3,513396,552115,Melvin,Währme,Melvin Währme,F,,58,64,EKE_MelvinWahrme.png,,4,0,0,0,0,,portrait from template-mod-ssl/STO_ViktorNystedt.png
+117040,EKE,Ekeby IF H3,378921,57797,Olof,Jörstad,Olof Jörstad,G,85,59,65,EKE_OlofJorstad.png,Målvakt,12,0,0,0,0,,portrait from template-mod-ssl/STR_AdamLilja.png
+117040,EKE,Ekeby IF H3,30544,444522,Oscar,Royal,Oscar Royal,F,69,67,73,EKE_OscarRoyal.png,Forward,21,6,12,18,2,,portrait from template-mod-ssl/STR_AdamNilsson.png
+117040,EKE,Ekeby IF H3,136047,259656,Oskar,Edberg,Oskar Edberg,D,33,59,65,EKE_OskarEdberg.png,Back,2,0,1,1,0,,portrait from template-mod-ssl/STR_AlexanderFondelius.png
+117040,EKE,Ekeby IF H3,220965,101187,Petter,Gärskog,Petter Gärskog,C,89,64,70,EKE_PetterGarskog.png,Center,16,6,5,11,12,,portrait from template-mod-ssl/STR_AndreasWisen.png
+117040,EKE,Ekeby IF H3,198425,91102,Robin,Schilling,Robin Schilling,C,93,63,69,EKE_RobinSchilling.png,Center,8,4,8,12,2,,portrait from template-mod-ssl/STR_AntonKlinth.png
+117040,EKE,Ekeby IF H3,499848,533823,Stellan,Johansson,Stellan Johansson,F,44,58,64,EKE_StellanJohansson.png,Forward,1,0,0,0,0,,portrait from template-mod-ssl/STR_AntonWalfridson.png
+117040,EKE,Ekeby IF H3,543840,587417,Ville,Sandén,Ville Sandén,D,8,67,73,EKE_VilleSanden.png,Back,14,10,9,19,8,,portrait from template-mod-ssl/STR_CasperNilsson.png
+117040,EKE,Ekeby IF H3,201011,444523,William,Sätre,William Sätre,C,99,66,72,EKE_WilliamSatre.png,Center,22,12,2,14,0,,portrait from template-mod-ssl/STR_EdvinBergqvist.png
+124610,RAM,Ramnäs SS,295791,297375,Adam,Berg,Adam Berg,F,15,67,73,RAM_AdamBerg.png,Forward,27,9,8,17,12,,portrait from template-mod-ssl/STR_EdwinKorberg.png
+124610,RAM,Ramnäs SS,734780,808804,Adam,Holmkvist,Adam Holmkvist,D,60,61,67,RAM_AdamHolmkvist.png,Back,14,0,4,4,6,,portrait from template-mod-ssl/STR_FabianBerg.png
+124610,RAM,Ramnäs SS,138711,221315,Adam,Lundh,Adam Lundh,C,17,66,72,RAM_AdamLundh.png,Center,25,6,7,13,4,,portrait from template-mod-ssl/STR_GustavHall.png
+124610,RAM,Ramnäs SS,79335,269828,Alex,Geidemark,Alex Geidemark,F,33,63,69,RAM_AlexGeidemark.png,Forward,17,3,4,7,2,,portrait from template-mod-ssl/STR_HampusGrundel.png
+124610,RAM,Ramnäs SS,242881,234361,Andreas,Ruuth,Andreas Ruuth,F,9,61,67,RAM_AndreasRuuth.png,Forward,17,1,2,3,6,,portrait from template-mod-ssl/STR_JacobKauppinen.png
+124610,RAM,Ramnäs SS,270862,382735,Benjamin,Lövgren,Benjamin Lövgren,F,5,61,67,RAM_BenjaminLovgren.png,Forward,18,0,3,3,8,,portrait from template-mod-ssl/STR_KalleKarlsson.png
+124610,RAM,Ramnäs SS,787192,869419,Daniel,Åström,Daniel Åström,F,,58,64,RAM_DanielAstrom.png,,1,0,0,0,0,,portrait from template-mod-ssl/STR_KevinBergman.png
+124610,RAM,Ramnäs SS,44691,416026,Emil,Zettergren,Emil Zettergren,F,27,68,74,RAM_EmilZettergren.png,Forward,27,12,5,17,16,,portrait from template-mod-ssl/STR_LukasBlom.png
+124610,RAM,Ramnäs SS,761244,839717,Jesper,Gustafsson,Jesper Gustafsson,D,8,61,67,RAM_JesperGustafsson.png,Back,17,1,2,3,2,,portrait from template-mod-ssl/STR_LukasGarcia.png
+124610,RAM,Ramnäs SS,240858,240249,Jimmy,Larsson,Jimmy Larsson,G,85,62,68,RAM_JimmyLarsson.png,Målvakt,28,0,1,1,0,,portrait from template-mod-ssl/STR_OliverSoderman.png
+124610,RAM,Ramnäs SS,263097,221325,Jonathan,Berggren,Jonathan Berggren,F,11,64,70,RAM_JonathanBerggren.png,Forward,27,4,5,9,10,,portrait from template-mod-ssl/STR_OmarAldeeb.png
+124610,RAM,Ramnäs SS,114493,234364,Jonathan,Ljungberg,Jonathan Ljungberg,F,19,71,77,RAM_JonathanLjungberg.png,Forward,27,16,12,28,2,,portrait from template-mod-ssl/STR_OscarJanthe.png
+124610,RAM,Ramnäs SS,761245,839719,Jonathan,Ståhlberg,Jonathan Ståhlberg,D,69,62,68,RAM_JonathanStahlberg.png,Back,19,3,3,6,0,,portrait from template-mod-ssl/STR_Oskar-VikingTjarnberg.png
+124610,RAM,Ramnäs SS,165645,213878,Kohlén,Neville Råsmalm,Kohlén Neville Råsmalm,G,66,60,66,RAM_KohlenNevilleRasmalm.png,Målvakt,11,1,1,2,2,,portrait from template-mod-ssl/STR_PelleHansson.png
+124610,RAM,Ramnäs SS,366278,213508,Linus,Engström,Linus Engström,C,93,64,70,RAM_LinusEngstrom.png,Center,25,5,2,7,10,,portrait from template-mod-ssl/STR_SebastianKampe.png
+124610,RAM,Ramnäs SS,471787,234362,Martin,Olivensjö,Martin Olivensjö,D,4,60,66,RAM_MartinOlivensjo.png,Back,10,0,1,1,2,,portrait from template-mod-ssl/STR_TimLindgren.png
+124610,RAM,Ramnäs SS,64808,221318,Mattias,Günther Berggren,Mattias Günther Berggren,F,13,76,82,RAM_MattiasGuntherBerggren.png,Forward,24,30,10,40,0,,portrait from template-mod-ssl/STR_ViktorSeth.png
+124610,RAM,Ramnäs SS,563421,608827,Niclas,Wahlgren,Niclas Wahlgren,F,14,60,66,RAM_NiclasWahlgren.png,Forward,8,4,0,4,2,,portrait from template-mod-ssl/STR_WiktorAkerstedt.png
+124610,RAM,Ramnäs SS,336421,260123,Oliver,Amnebrand,Oliver Amnebrand,D,22,64,70,RAM_OliverAmnebrand.png,Back,26,1,6,7,10,,portrait from template-mod-ssl/STR_WilliamLernestal.png
+124610,RAM,Ramnäs SS,18732,297376,Rasmus,Forsberg,Rasmus Forsberg,C,12,62,68,RAM_RasmusForsberg.png,Center,13,3,5,8,2,,portrait from template-mod-ssl/STR_WillySedin.png
+124610,RAM,Ramnäs SS,49612,386878,Samuel,Larsson,Samuel Larsson,D,51,60,66,RAM_SamuelLarsson.png,Back,15,0,0,0,6,,portrait from template-mod-ssl/VAX_AlbinLindbladh.png
+124610,RAM,Ramnäs SS,277191,328848,Simon,Stridh,Simon Stridh,F,16,60,66,RAM_SimonStridh.png,Forward,15,1,0,1,4,,portrait from template-mod-ssl/VAX_AlexStrandberg.png
+124610,RAM,Ramnäs SS,331043,262797,Viktor,Nerf,Viktor Nerf,F,3,69,75,RAM_ViktorNerf.png,Forward,20,7,17,24,6,,portrait from template-mod-ssl/VAX_AndreAndersson.png
+124610,RAM,Ramnäs SS,232520,221324,William,Ljungberg,William Ljungberg,D,10,66,72,RAM_WilliamLjungberg.png,Back,21,7,7,14,0,,portrait from template-mod-ssl/VAX_AxelHjalm.png
+17749,SAL,IBK Sala H3,455453,403185,Adam,Bergh,Adam Bergh,F,24,66,72,SAL_AdamBergh.png,,21,9,5,14,6,,portrait from template-mod-ssl/VAX_EemeliAkola.png
+17749,SAL,IBK Sala H3,145942,332420,Adam,Eriksson,Adam Eriksson,F,91,58,64,SAL_AdamEriksson.png,,0,0,0,0,0,,portrait from template-mod-ssl/VAX_EmilNyh.png
+17749,SAL,IBK Sala H3,185559,103588,Alexander,Jaska,Alexander Jaska,F,,58,64,SAL_AlexanderJaska.png,,1,0,0,0,0,https://ibis.innebandy.se/images/Spelare/26c798fdccf3e4728a60a04828a11742.jpg,portrait from template-mod-ssl/VAX_FilipStjernberg.png
+17749,SAL,IBK Sala H3,1944,471794,Ante,Håkansson,Ante Håkansson,F,,59,65,SAL_AnteHakansson.png,,8,0,0,0,0,,portrait from template-mod-ssl/VAX_HampusOhgren.png
+17749,SAL,IBK Sala H3,279407,391560,Anton,Hanold,Anton Hanold,F,,59,65,SAL_AntonHanold.png,,3,0,1,1,0,,portrait from template-mod-ssl/VAX_HeikkiIiskola.png
+17749,SAL,IBK Sala H3,410596,277161,Axel,Norin,Axel Norin,F,,58,64,SAL_AxelNorin.png,,4,0,0,0,0,,portrait from template-mod-ssl/VAX_HugoBertilsson.png
+17749,SAL,IBK Sala H3,141445,30600,Calle,Gustafsson,Calle Gustafsson,F,,61,67,SAL_CalleGustafsson.png,,9,1,4,5,6,,portrait from template-mod-ssl/VAX_JesperSankell.png
+17749,SAL,IBK Sala H3,483557,516403,Calle,Svärd,Calle Svärd,F,92,70,76,SAL_CalleSvard.png,,21,14,11,25,0,,portrait from template-mod-ssl/VAX_JonathanNilsson.png
+17749,SAL,IBK Sala H3,338419,243104,David,Ahlin,David Ahlin,F,,61,67,SAL_DavidAhlin.png,,11,2,3,5,4,,portrait from template-mod-ssl/VAX_KevinMahler.png
+17749,SAL,IBK Sala H3,537675,580382,David,Forsman,David Forsman,F,,58,64,SAL_DavidForsman.png,,0,0,0,0,0,,portrait from template-mod-ssl/VAX_MansHoglin.png
+17749,SAL,IBK Sala H3,567086,613109,Elias,Karén,Elias Karén,F,73,59,65,SAL_EliasKaren.png,,5,0,0,0,0,,portrait from template-mod-ssl/VAX_MartinHakansson.png
+17749,SAL,IBK Sala H3,603295,655149,Emil,Larsson,Emil Larsson,F,69,63,69,SAL_EmilLarsson.png,,22,2,5,7,4,,portrait from template-mod-ssl/VAX_MichalDudovic.png
+17749,SAL,IBK Sala H3,484534,517527,Emil,Nordlund,Emil Nordlund,F,83,62,68,SAL_EmilNordlund.png,,17,3,1,4,10,,portrait from template-mod-ssl/VAX_NiklasRamirez.png
+17749,SAL,IBK Sala H3,518856,558165,Filip,Wiik,Filip Wiik,F,,59,65,SAL_FilipWiik.png,,9,0,0,0,0,https://ibis.innebandy.se/images/Spelare/68816a57728710da1220c4e54119f275.jpg,portrait from template-mod-ssl/VAX_NoelJohansson.png
+17749,SAL,IBK Sala H3,512767,551377,Gustav,Kull,Gustav Kull,F,19,60,66,SAL_GustavKull.png,,8,1,1,2,2,,portrait from template-mod-ssl/VAX_OliverMendozaNyberg.png
+17749,SAL,IBK Sala H3,401645,503771,Hugo,Lidgren,Hugo Lidgren,F,,63,69,SAL_HugoLidgren.png,,22,3,3,6,2,https://ibis.innebandy.se/images/Spelare/5f9cb3bbdae676f636b770d2d931bc05.jpg,portrait from template-mod-ssl/VAX_OscarJohansson.png
+17749,SAL,IBK Sala H3,204790,428406,Isak,Johansson,Isak Johansson,F,87,69,75,SAL_IsakJohansson.png,,20,11,14,25,0,,portrait from template-mod-ssl/VAX_SamuelFolkessonAlgman.png
+17749,SAL,IBK Sala H3,156870,448736,Ivar,Halt,Ivar Halt,F,88,61,67,SAL_IvarHalt.png,,6,4,1,5,0,,portrait from template-mod-ssl/VAX_SanttuStrandberg.png
+17749,SAL,IBK Sala H3,53329,409118,Jacob,Andersson,Jacob Andersson,F,,58,64,SAL_JacobAndersson.png,,3,0,0,0,0,,portrait from template-mod-ssl/VAX_VictorHansson.png
+17749,SAL,IBK Sala H3,108063,262255,Johan,Lindström,Johan Lindström,F,,58,64,SAL_JohanLindstrom.png,,1,1,0,1,0,,portrait from template-mod-ssl/VAX_WilmerJansson.png
+17749,SAL,IBK Sala H3,155976,222857,Jonas,Ahlin,Jonas Ahlin,F,,68,74,SAL_JonasAhlin.png,,15,15,8,23,8,,portrait from template-mod-ssl/VIS_AlbinLundell.png
+17749,SAL,IBK Sala H3,243015,427226,Lowe,Lilja,Lowe Lilja,F,74,64,70,SAL_LoweLilja.png,,13,5,6,11,4,,portrait from template-mod-ssl/VIS_AndersSkoog.png
+17749,SAL,IBK Sala H3,109482,272726,Markus,Thuvander,Markus Thuvander,F,,60,66,SAL_MarkusThuvander.png,,3,3,1,4,0,,portrait from template-mod-ssl/VIS_AndreasEgegard.png
+17749,SAL,IBK Sala H3,363476,445678,Nils,Kull,Nils Kull,F,33,58,64,SAL_NilsKull.png,,0,0,0,0,0,,portrait from template-mod-ssl/VIS_DanielGabrielsson.png
+17749,SAL,IBK Sala H3,552744,597085,Noel,Leeapple,Noel Leeapple,F,26,59,65,SAL_NoelLeeapple.png,,5,0,0,0,4,,portrait from template-mod-ssl/VIS_EddieNissen-Sandberg.png
+17749,SAL,IBK Sala H3,12528,367405,Oscar,Eriksson,Oscar Eriksson,F,5,58,64,SAL_OscarEriksson.png,,0,0,0,0,0,,portrait from template-mod-ssl/VIS_EmilHedstrom.png
+17749,SAL,IBK Sala H3,545911,589694,Samuel,Jansson,Samuel Jansson,F,74,60,66,SAL_SamuelJansson.png,,11,2,1,3,0,,portrait from template-mod-ssl/VIS_GustavBorg.png
+17749,SAL,IBK Sala H3,242402,399405,Samuel,Rönnings,Samuel Rönnings,F,97,69,75,SAL_SamuelRonnings.png,,23,7,17,24,8,,portrait from template-mod-ssl/VIS_HugoLindberg.png
+17749,SAL,IBK Sala H3,265912,462214,Simon,Hanold,Simon Hanold,F,28,63,69,SAL_SimonHanold.png,,25,4,1,5,0,,portrait from template-mod-ssl/VIS_JacobAlmstrom.png
+17749,SAL,IBK Sala H3,45307,485423,Thomas,Åman,Thomas Åman,F,,60,66,SAL_ThomasAman.png,,10,0,2,2,0,,portrait from template-mod-ssl/VIS_JesperEliasson.png
+17749,SAL,IBK Sala H3,351600,448733,Vilgot,Hellblom,Vilgot Hellblom,F,47,58,64,SAL_VilgotHellblom.png,,0,0,0,0,0,,portrait from template-mod-ssl/VIS_JesperLagemyr.png
+17749,SAL,IBK Sala H3,223985,450793,Wilhelm,Gullberg,Wilhelm Gullberg,F,25,61,67,SAL_WilhelmGullberg.png,,9,3,3,6,4,,portrait from template-mod-ssl/VIS_JohnPettersson.png
+17749,SAL,IBK Sala H3,367313,469449,Wilmer,Hedlund,Wilmer Hedlund,F,,62,68,SAL_WilmerHedlund.png,,6,8,1,9,14,,portrait from template-mod-ssl/VIS_KimGanevik.png
+22200,RAB,IK Råby Västerås H3,153764,485021,Alexander,Persson,Alexander Persson,F,27,61,67,RAB_AlexanderPersson.png,,12,2,2,4,4,,portrait from template-mod-ssl/VIS_LinusSjogren.png
+22200,RAB,IK Råby Västerås H3,91090,233690,Alexander,Åström,Alexander Åström,F,30,60,66,RAB_AlexanderAstrom.png,,19,0,0,0,0,,portrait from template-mod-ssl/VIS_LudvigStegius.png
+22200,RAB,IK Råby Västerås H3,145107,451365,Anton,Karlsson,Anton Karlsson,F,26,65,71,RAB_AntonKarlsson.png,,14,6,9,15,4,,portrait from template-mod-ssl/VIS_MarkusJovic.png
+22200,RAB,IK Råby Västerås H3,586565,636039,Daniel,Köld,Daniel Köld,F,16,68,74,RAB_DanielKold.png,Forward,21,8,14,22,0,,portrait from template-mod-ssl/VIS_OscarMagnusson.png
+22200,RAB,IK Råby Västerås H3,449103,193847,Daniel,Lindholm,Daniel Lindholm,D,4,64,70,RAB_DanielLindholm.png,Back,22,2,7,9,0,,portrait from template-mod-ssl/VIS_RasmusEkstrom.png
+22200,RAB,IK Råby Västerås H3,260457,52090,Daniel,Sjödahl,Daniel Sjödahl,D,13,71,77,RAB_DanielSjodahl.png,Back,22,12,16,28,0,,portrait from template-mod-ssl/VIS_VilleHirvisuo.png
+22200,RAB,IK Råby Västerås H3,190109,75112,David,Hemström,David Hemström,D,,58,64,RAB_DavidHemstrom.png,Back,0,0,0,0,0,,portrait from template-mod-ssl/VIS_WilmerViinamaki.png
+22200,RAB,IK Råby Västerås H3,776753,857921,David,Palm,David Palm,F,32,62,68,RAB_DavidPalm.png,,9,6,1,7,8,,portrait from template-mod-ssl/VIS_YannisWyss.png
+22200,RAB,IK Råby Västerås H3,753823,719373,Elliot,Hasselkvist,Elliot Hasselkvist,F,76,59,65,RAB_ElliotHasselkvist.png,,5,0,0,0,0,https://ibis.innebandy.se/images/Person/2c8cd20e4eb33e8d660980beccf5a543.jpg,portrait from template-mod-ssl/WIC_AlbinStrand.png
+22200,RAB,IK Råby Västerås H3,144470,260168,Emil,Laukka,Emil Laukka,F,11,62,68,RAB_EmilLaukka.png,,4,7,3,10,0,,portrait from template-mod-ssl/WIC_AlexanderLind.png
+22200,RAB,IK Råby Västerås H3,46888,64232,Fredrik,Åhlberg,Fredrik Åhlberg,F,21,64,70,RAB_FredrikAhlberg.png,,4,8,6,14,2,,portrait from template-mod-ssl/WIC_AndreasGronli.png
+22200,RAB,IK Råby Västerås H3,355081,130254,Gustaf,Nordin,Gustaf Nordin,F,20,59,65,RAB_GustafNordin.png,,4,0,1,1,0,,portrait from template-mod-ssl/WIC_AntonBirgersson.png
+22200,RAB,IK Råby Västerås H3,410991,180090,Jesper,Nyberg,Jesper Nyberg,F,17,63,69,RAB_JesperNyberg.png,,16,4,5,9,6,,portrait from template-mod-ssl/WIC_AntonFrejd.png
+22200,RAB,IK Råby Västerås H3,169069,260419,Joakim,Lund,Joakim Lund,C,3,61,67,RAB_JoakimLund.png,Center,14,1,2,3,8,,portrait from template-mod-ssl/WIC_FilipErheden.png
+22200,RAB,IK Råby Västerås H3,223603,207648,Johan,Hedlund,Johan Hedlund,F,71,63,69,RAB_JohanHedlund.png,,20,5,1,6,2,,portrait from template-mod-ssl/WIC_FilipHolmer.png
+22200,RAB,IK Råby Västerås H3,700388,768690,Johannes,Iso-Aho,Johannes Iso-Aho,G,1,58,64,RAB_JohannesIsoAho.png,Målvakt,0,0,0,0,0,,portrait from template-mod-ssl/WIC_FilipNorman.png
+22200,RAB,IK Råby Västerås H3,472941,65279,Jonas,Björn,Jonas Björn,D,81,70,76,RAB_JonasBjorn.png,Back,20,12,14,26,4,,portrait from template-mod-ssl/WIC_HobbeJanefrid.png
+22200,RAB,IK Råby Västerås H3,223523,450998,Jonathan,Erlandsson,Jonathan Erlandsson,C,,58,64,RAB_JonathanErlandsson.png,Center,0,0,0,0,0,https://ibis.innebandy.se/images/Spelare/0c94f5f3cf362cd5797dfa7b7adf0d9d.jpg,portrait from template-mod-ssl/WIC_HugoJonsson.png
+22200,RAB,IK Råby Västerås H3,52572,70868,Michell,Göransson,Michell Göransson,F,12,62,68,RAB_MichellGoransson.png,Forward,5,8,1,9,16,,portrait from template-mod-ssl/WIC_IsacOlssonFerm.png
+22200,RAB,IK Råby Västerås H3,176146,70869,Morgan,Kalldin,Morgan Kalldin,F,,59,65,RAB_MorganKalldin.png,,3,1,0,1,2,,portrait from template-mod-ssl/WIC_MarkusBerntsson.png
+22200,RAB,IK Råby Västerås H3,283941,119283,Mustafa,Salih,Mustafa Salih,F,82,62,68,RAB_MustafaSalih.png,,20,4,1,5,4,,portrait from template-mod-ssl/WIC_MattiasLovenfors.png
+22200,RAB,IK Råby Västerås H3,743010,819098,Pontus,Carlson,Pontus Carlson,F,86,60,66,RAB_PontusCarlson.png,,14,2,0,2,2,,portrait from template-mod-ssl/WIC_MaxKallerteg.png
+22200,RAB,IK Råby Västerås H3,627869,684140,Robert,Öster,Robert Öster,G,43,58,64,RAB_RobertOster.png,Målvakt,0,0,0,0,0,,portrait from template-mod-ssl/WIC_MoricsKrumins.png
+22200,RAB,IK Råby Västerås H3,77777,118670,Tom,Tersén,Tom Tersén,C,75,67,73,RAB_TomTersen.png,Center,17,10,10,20,2,,portrait from template-mod-ssl/WIC_NicholayHalvorsen.png
+22200,RAB,IK Råby Västerås H3,342653,118676,Toni,Haverinen,Toni Haverinen,F,10,65,71,RAB_ToniHaverinen.png,,10,9,8,17,0,,portrait from template-mod-ssl/WIC_OlleJonsson.png
+22200,RAB,IK Råby Västerås H3,762666,842143,Yonghun,Jo,Yonghun Jo,F,15,61,67,RAB_YonghunJo.png,,9,3,1,4,0,,portrait from template-mod-ssl/WIC_OskarPetersson.png
+122855,RAN,Ransta IK,274714,367411,Adam,Fredriksson,Adam Fredriksson,C,44,58,64,RAN_AdamFredriksson.png,Center,0,0,0,0,0,,portrait from template-mod-ssl/WIC_ViktorHammarstedt.png
+122855,RAN,Ransta IK,458180,418709,Alexander,Löfberg,Alexander Löfberg,F,21,58,64,RAN_AlexanderLofberg.png,Forward,0,0,0,0,0,,portrait from template-mod-ssl/WIC_ViktorOlofsson.png
+122855,RAN,Ransta IK,491669,525148,Andreas,Frank,Andreas Frank,G,47,58,64,RAN_AndreasFrank.png,Målvakt,0,0,0,0,0,,portrait from template-mod-ssl/WIC_WilliamNordin.png
+122855,RAN,Ransta IK,357184,103652,Christopher,Viklund,Christopher Viklund,C,40,58,64,RAN_ChristopherViklund.png,Center,0,0,0,0,0,,portrait from template-mod-ssl/WIC_ZebJohnsson.png
+122855,RAN,Ransta IK,421617,406616,Cristoffer,Johansson,Cristoffer Johansson,F,17,58,64,RAN_CristofferJohansson.png,Forward,0,0,0,0,0,,portrait from template-mod-ssl/AIK_AdamForslov.png
+122855,RAN,Ransta IK,332966,374083,Daniel,Svensson,Daniel Svensson,F,29,58,64,RAN_DanielSvensson.png,Forward,0,0,0,0,0,,portrait from template-mod-ssl/AIK_AlexAndersson.png
+122855,RAN,Ransta IK,338419,243104,David,Ahlin,David Ahlin,D,5,58,64,RAN_DavidAhlin.png,Back,0,0,0,0,0,,portrait from template-mod-ssl/AIK_AlexIndrianaKjellbris.png
+122855,RAN,Ransta IK,464313,69065,David,Frank,David Frank,D,87,58,64,RAN_DavidFrank.png,Back,0,0,0,0,0,,portrait from template-mod-ssl/AIK_AlexanderMahlberg.png
+122855,RAN,Ransta IK,148659,307964,Edvin,Spång,Edvin Spång,F,16,58,64,RAN_EdvinSpang.png,Forward,0,0,0,0,0,,portrait from template-mod-ssl/AIK_AndreasBeckius.png
+122855,RAN,Ransta IK,289935,423355,Elias,Forsman,Elias Forsman,F,27,58,64,RAN_EliasForsman.png,Forward,0,0,0,0,0,,portrait from template-mod-ssl/AIK_AndreasStefansson.png
+122855,RAN,Ransta IK,108063,262255,Johan,Lindström,Johan Lindström,F,32,58,64,RAN_JohanLindstrom.png,Forward,0,0,0,0,0,,portrait from template-mod-ssl/AIK_DouglasWetterstrand.png
+122855,RAN,Ransta IK,406034,103644,Jonas,Loqvist,Jonas Loqvist,F,10,58,64,RAN_JonasLoqvist.png,Forward,0,0,0,0,0,,portrait from template-mod-ssl/AIK_GabrielBarragan.png
+122855,RAN,Ransta IK,180155,262257,Martin,Ekström,Martin Ekström,D,7,58,64,RAN_MartinEkstrom.png,Back,0,0,0,0,0,,portrait from template-mod-ssl/AIK_IsaacLindberg.png
+122855,RAN,Ransta IK,237939,224104,Niklas,Svärd,Niklas Svärd,F,81,58,64,RAN_NiklasSvard.png,Forward,0,0,0,0,0,,portrait from template-mod-ssl/AIK_JesperAndersson.png
+122855,RAN,Ransta IK,210377,103645,Patrik,Olsson,Patrik Olsson,F,90,58,64,RAN_PatrikOlsson.png,Forward,0,0,0,0,0,,portrait from template-mod-ssl/AIK_JonasRosen.png
+122855,RAN,Ransta IK,85931,276546,Rasmus,Hedlund,Rasmus Hedlund,D,13,58,64,RAN_RasmusHedlund.png,Back,0,0,0,0,0,,portrait from template-mod-ssl/AIK_JonathanBlomqvist.png
+122855,RAN,Ransta IK,460304,354752,Samuel,Svärd,Samuel Svärd,G,68,58,64,RAN_SamuelSvard.png,Målvakt,0,0,0,0,0,,portrait from template-mod-ssl/AIK_JonathanBolin.png
+122855,RAN,Ransta IK,45307,485423,Thomas,Åman,Thomas Åman,D,8,58,64,RAN_ThomasAman.png,Back,0,0,0,0,0,,portrait from template-mod-ssl/AIK_JonathanHjelm.png
+122855,RAN,Ransta IK,372940,276543,Tobias,Ekström,Tobias Ekström,D,20,58,64,RAN_TobiasEkstrom.png,Back,0,0,0,0,0,,portrait from template-mod-ssl/AIK_KevinLiebackAsp.png
+122855,RAN,Ransta IK,753204,788794,Tobias,Pettersson,Tobias Pettersson,G,32,58,64,RAN_TobiasPettersson.png,Målvakt,0,0,0,0,0,,portrait from template-mod-ssl/AIK_KimGuilotte.png
+122855,RAN,Ransta IK,373685,306948,Viktor,Karlberg,Viktor Karlberg,G,,58,64,RAN_ViktorKarlberg.png,Målvakt,0,0,0,0,0,,portrait from template-mod-ssl/AIK_LiamAstrom.png
+122855,RAN,Ransta IK,565213,610957,William,Gunnarsson,William Gunnarsson,F,6,58,64,RAN_WilliamGunnarsson.png,Vänsterforward,0,0,0,0,0,,portrait from template-mod-ssl/AIK_LinusHellqvist.png
