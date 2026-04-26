@@ -1,0 +1,107 @@
+{
+  "league": "Division 3 Örebro/Västmanland",
+  "season": "2024/2025",
+  "teams_count": 10,
+  "teams": [
+    {
+      "team_name": "Askersunds IBK H3",
+      "short_name": "ASK",
+      "city": "Askersund",
+      "source_status": "confirmed"
+    },
+    {
+      "team_name": "Lillån IBS H3",
+      "short_name": "LIL",
+      "city": "Örebro",
+      "source_status": "confirmed via public standings"
+    },
+    {
+      "team_name": "IBF Örebro 2",
+      "short_name": "ORE",
+      "city": "Örebro",
+      "source_status": "unverified placeholder"
+    },
+    {
+      "team_name": "Kungsörs IBK H3",
+      "short_name": "KUN",
+      "city": "Kungsör",
+      "source_status": "confirmed"
+    },
+    {
+      "team_name": "Rocklunda Barkarö IBK Västerås",
+      "short_name": "RBB",
+      "city": "Västerås",
+      "source_status": "confirmed"
+    },
+    {
+      "team_name": "Ekeby IF H3",
+      "short_name": "EKE",
+      "city": "Kumla",
+      "source_status": "confirmed"
+    },
+    {
+      "team_name": "Ramnäs SS",
+      "short_name": "RAM",
+      "city": "Ramnäs",
+      "source_status": "confirmed"
+    },
+    {
+      "team_name": "IK Råby Västerås H3",
+      "short_name": "RAB",
+      "city": "Västerås",
+      "source_status": "confirmed"
+    },
+    {
+      "team_name": "IBK Sala H3",
+      "short_name": "SAL",
+      "city": "Sala",
+      "source_status": "confirmed"
+    },
+    {
+      "team_name": "Ransta IK",
+      "short_name": "RAN",
+      "city": "Ransta",
+      "source_status": "withdrawn in source"
+    }
+  ],
+  "priority_team": "Askersunds IBK H3",
+  "players": [
+    {
+      "team": "Askersunds IBK H3",
+      "first_name": "Tobias",
+      "last_name": "Bäckström",
+      "position": "C",
+      "jersey_no": "9",
+      "overall": "99",
+      "potential": "99",
+      "portrait_file": "ASK_TobiasBackstrom.png",
+      "notes": "priority player maxed per request"
+    },
+    {
+      "team": "Askersunds IBK H3",
+      "first_name": "Emil",
+      "last_name": "Backeborn",
+      "position": "F",
+      "jersey_no": "11",
+      "overall": "72",
+      "potential": "78",
+      "portrait_file": "",
+      "notes": "from public scorer list"
+    }
+  ],
+  "validation": {
+    "missing_portraits": [],
+    "teams_assets_present": [
+      "FieldAskersund.png",
+      "PlayerJerseyAskersundAway.png",
+      "PlayerJerseyAskersundHome.png",
+      "PlayerShortsAskersundAway.png",
+      "PlayerShortsAskersundHome.png",
+      "PlayerSocksAskersundAway.png",
+      "PlayerSocksAskersundHome.png",
+      "RinkAdsAskersund.png",
+      "SideAdsAskersund.png",
+      "TeamLogoAskersundIBK.png"
+    ]
+  }
+}
